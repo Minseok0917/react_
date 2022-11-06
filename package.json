@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "workspaces": [
+        "packages/*",
+        "projects/*"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
